@@ -1,6 +1,6 @@
 # DevUp_devDep-MentorSelectionChallenge-0-WEB
 
-'''
+```
 The project has the following directory structure:
 └── Devup
   ├── Clubs UMBB .html
@@ -18,7 +18,7 @@ The project has the following directory structure:
       │   ├── Orwell's Roses.jpg
       │   └── sherlock-holmes-and-the-servants-of-hell.jpg
       └── UMBB LOGO.png
-'''
+```
 
 
 ## Project Overview
