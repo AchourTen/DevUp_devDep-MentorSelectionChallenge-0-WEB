@@ -1,7 +1,8 @@
 # DevUp_devDep-MentorSelectionChallenge-0-WEB
 
-```
+
 The project has the following directory structure:
+```
 └── Devup
   ├── Clubs UMBB .html
   ├── Librairie UMBB .html
